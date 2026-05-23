@@ -3,7 +3,7 @@ import sharp from 'sharp';
 import ico from 'sharp-ico';
 import path from 'node:path';
 
-const faviconSrc = path.resolve('public/icon.png');
+const faviconSrc = path.resolve('src/images/icon.png');
 
 export const GET: APIRoute = async () => {
   // Resize the image to multiple sizes
