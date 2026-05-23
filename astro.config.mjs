@@ -22,7 +22,7 @@ export default defineConfig({
       },
     }),
     starlight({
-      title: 'ScrewFast Docs',
+      title: 'Dairano',
       locales: {
         root: {
           label: 'English',
