@@ -11,7 +11,7 @@
 :root {
   --border: hsla(var(--border-neutral), 0.4);
   --backdrop-color: #272727cc;
-  --sl-color-accent: #ff801f;
+  --sl-color-accent: #03b6b1;
   --sl-color-accent-high: #ffa057;
   --sl-color-accent-low: #562800;
   --sl-color-black: #181818;
