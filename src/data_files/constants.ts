@@ -42,11 +42,7 @@ export const OG = {
 };
 
 export const partnersData = [
-  {
-    src: 'https://www.digikala.com/brand/full-horizontal.svg',
-    name: 'damdaran',
-    href: '#',
-  },
+  
   {
     icon: `<svg
       class="mx-auto h-auto w-32 py-3 sm:mx-0 lg:w-40 lg:py-5"
