@@ -43,7 +43,7 @@ export const OG = {
 
 export const partnersData = [
   {
-    src: '/images/partners/partner1.png',
+    src: 'https://www.digikala.com/brand/full-horizontal.svg',
     name: 'damdaran',
     href: '#',
   },
