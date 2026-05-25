@@ -56,15 +56,11 @@ const avatarSrcs: Array<string> = [
 import { partnersData } from '@data/partners';
 ---
 
-{partnersData.map(partner => (
-  <a href={partner.href}>
-    <img 
-      src={partner.src} 
-      alt={partner.name}
-      class="mx-auto h-auto w-32 py-3 sm:mx-0 lg:w-40 lg:py-5"
-    />
-  </a>
-))}
+  <ClientsSection
+    title="Trusted by Industry Leaders"
+    subTitle="Experience the reliability chosen by industry giants."
+    partners={partnersData}
+  />
 
   <FeaturesGeneral
     title="Meeting Industry Demands"
