@@ -4,9 +4,9 @@ export const SITE = {
   title: 'dairano',
   tagline: 'Top-quality milk Powder',
   description:
-    'ScrewFast offers top-tier hardware tools and expert construction services to meet all your project needs. Start exploring and contact our sales team for superior quality and reliability.',
+    'Dairano is a trusted supplier of premium dairy-based ingredients, offering a carefully selected range of products from leading brands in the industry.',
   description_short:
-    'ScrewFast offers top-tier hardware tools and expert construction services to meet all your project needs.',
+    'Dairano is a trusted supplier of premium dairy-based ingredients, offering a carefully selected range of products from leading brands in the industry.',
   url: 'https://www.dairano.com/',
   author: 'littamir',
 };
@@ -39,7 +39,7 @@ export const OG = {
 
 `,
   description:
-    "Equip your projects with ScrewFast's top-quality hardware tools and expert construction services. Trusted by industry leaders, ScrewFast offers simplicity, affordability, and reliability. Experience the difference with user-centric design and cutting-edge tools. Start exploring now!",
+    "Dairano is a trusted supplier of premium dairy-based ingredients, offering a carefully selected range of products from leading brands in the industry. With a strong focus on milk powder, whey powder, and related dairy products, we are committed to providing quality, reliability, and consistency to our customers. At Dairano, we connect businesses with dependable dairy solutions that meet high industry standards and support a wide variety of commercial and nutritional needs.",
   image: ogImageSrc,
 };
 
