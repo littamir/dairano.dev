@@ -8,7 +8,7 @@ export const SITE = {
   description_short:
     'ScrewFast offers top-tier hardware tools and expert construction services to meet all your project needs.',
   url: 'https://www.dairano.com/',
-  author: 'Emil Gulamov',
+  author: 'littamir',
 };
 
 export const SEO = {
@@ -35,7 +35,9 @@ export const OG = {
   locale: 'en_US',
   type: 'website',
   url: SITE.url,
-  title: `${SITE.title}: : Hardware Tools & Construction Services`,
+  title: `${SITE.title}: : Dairano is a trusted supplier of premium dairy-based ingredients, offering a carefully selected range of products from leading brands in the industry.
+
+`,
   description:
     "Equip your projects with ScrewFast's top-quality hardware tools and expert construction services. Trusted by industry leaders, ScrewFast offers simplicity, affordability, and reliability. Experience the difference with user-centric design and cutting-edge tools. Start exploring now!",
   image: ogImageSrc,
